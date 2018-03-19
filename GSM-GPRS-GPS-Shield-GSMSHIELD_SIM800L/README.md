@@ -45,3 +45,5 @@ As well as, but not limited to, the following individuals:
  - [@madmaze](https://github.com/madmaze)
  - commiters from google code: https://code.google.com/p/gsm-shield-arduino/people/list
 names listed in no particular order.
+<img src="http://theveel.com/wp-content/uploads/2017/01/1-2017-01-07-10.35.17-1024x548.jpg" alt="Example dev">
+
